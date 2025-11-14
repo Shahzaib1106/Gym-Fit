@@ -5,7 +5,8 @@ This project was created as an assignment and demonstrates clean UI design, anim
 
 🔥 Live Demo
 
-🔗 Netlify URL: gymfiit.netlify.app
+🔗 Netlify URL: https://gymfiit.netlify.app
+
 🔗 GitHub Repository: https://github.com/Shahzaib1106/Gym-Fit
 
 📸 Project Overview
